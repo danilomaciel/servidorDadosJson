@@ -29,13 +29,13 @@ Data	Evento
 Segue abaixo os requisitos:
 Requisitos	Ferramentas
 Navegadores	Browser:
-+	Internet Explorer
-+	Firefox
-+	Google Chrome
-+	Opera
+**	Internet Explorer
+**	Firefox
+**	Google Chrome
+**	Opera
 Sistema operacional
-+	Window Seven
-+	Linux
+**	Window Seven
+**	Linux
 
 	Tecnologias
 Linguagem de   Programação	JavaScrip, Python
