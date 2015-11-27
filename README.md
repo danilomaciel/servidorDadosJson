@@ -1,7 +1,10 @@
 # Servidor de dados com NodeJs e Json
 Servidor de dados que atende as requisições através de respostas no formato Json
 
-
+### Alunos:
+- Danilo da Silva Maciel ra 519782
+- Ednilson Cipolla RA 522988
+- Gabriel Pavanello Ferrari RA: 475701 
 
 ## NOTA DE LIBERAÇÃO: SERVIDOR DE DADOS RESTFUL COM JSON
 
