@@ -20,7 +20,7 @@ Limitação
 ##3.	DATAS IMPORTANTES
 Segue abaixo as datas importante do desenvolvimento:
 ###Data	Evento
-----------------|----------------------------------
+------------- | -------------
 01/10/2015 | Início do planejamento
 01/11/2015 | Início do desenvolvimento
 15/11/2015 | Entrega para teste
@@ -31,14 +31,14 @@ Segue abaixo as datas importante do desenvolvimento:
 Segue abaixo os requisitos:
 ## Requisitos	Ferramentas
 ### Navegadores |Browser:
-----------------|----------------
-* Internet Explorer
-* Firefox
-* Google Chrome
-* Opera
-###Sistema operacional
-* Window Seven
-* Linux
+------------- | -------------
+| Internet Explorer
+| Firefox
+| Google Chrome
+| Opera
+Sistema operacional|
+|* Window Seven
+|* Linux
 
 Tecnologias
 Linguagem de   Programação	JavaScrip, Python
