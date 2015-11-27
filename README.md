@@ -51,11 +51,11 @@ Servidor Web  |	NodeJs
 
 ## 6.ATIVIDADES REALIZADAS NO PERÍODO
 Nessa liberação foram contemplados os seguintes itens:
-Cód |	Título	Tarefa	Situação |	Observação
-** 1	| Título da funcionalidade	| Servidor de dados RestFul com Json. |	Concluído	
-** 2	Implementação dos métodos e adequação das requisições	Foi implementado as requisições Rest com respostas no formato Json.	Concluído	
-** 3	Instalar e configurar o banco de dados	Foi realizado uma pesquisado sobre o banco MongoDB e implementado os métodos necessários para o acesso aos serviços do banco.
-	Concluído	
-** 4	Implementação clientes em mais de duas tecnologias	Foi realizado os testes em somente duas tecnologias, sendo necessário a implementação em outras tecnologias.	Não Concluiido	A demanda de tempo não foi o suficiente para a pesquisa e implementação.
+Cód | Título | Tarefa | Situação | Observação
+------------- | ------------- | ------------- | ------------- | ------------- 
+1 | Título da funcionalidade	| Servidor de dados RestFul com Json. | Concluído | 	
+2 | Implementação dos métodos e adequação das requisições. | Foi implementado as requisições Rest com respostas no formato Json. | Concluído |	
+3 |Instalar e configurar o banco de dados | Foi realizado uma pesquisado sobre o banco MongoDB e implementado os métodos necessários para o acesso aos serviços do banco. | Concluído |	
+4 | Implementação clientes em mais de duas tecnologias | Foi realizado os testes em somente duas tecnologias, sendo necessário a implementação em outras tecnologias. |Não Concluido | A demanda de tempo não foi o suficiente para a pesquisa e implementação.
 
 
