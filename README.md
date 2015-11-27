@@ -1,9 +1,9 @@
-# servidorDadosJson
+# Servidor de dados com NodeJs e Json
 Servidor de dados que atende as requisições através de respostas no formato Json
 
 
 
-NOTA DE LIBERAÇÃO: SERVIDOR DE DADOS RESTFUL COM JSON	
+#NOTA DE LIBERAÇÃO: SERVIDOR DE DADOS RESTFUL COM JSON	
 INTRODUÇÃO
 
 O servidor diponibilizado através deste trabalho, visa fornecer mecanismos para que qualquer aplicação que implemente o protocolo HTTP, consiga acessar os metódos disponiveis no servidor para que seja realizada operações do tipo CRUD.
@@ -37,17 +37,17 @@ Segue abaixo os requisitos:
 * Window Seven
 * Linux
 
-	Tecnologias
+Tecnologias
 Linguagem de   Programação	JavaScrip, Python
 Framework WEB	NodeJs, Express,Mongoose
 IDE 	Atom, PyCharm 
 Design pattern	                            ---
 Servidor Web	NodeJs
 
-	##5.	PROCEDIMENTO E ALTERAÇAO DE CONFIGURAÇÃO DO AMBIENTE
+##5.	PROCEDIMENTO E ALTERAÇAO DE CONFIGURAÇÃO DO AMBIENTE
 É necessário a instalação do servidor em um sistema de hospedagem que suporte NodeJs, atualmente há vários serviços disponíveis de forma fácil. Após a instalação somente é necessário realizar a instalação das dependências contidas no arquivo "package.json", que pode ser feito de forma rápida e fácil através do comando do npm disponível no NodeJS, "npm install" na mesma pasta onde se encontra o "package.json", após a instalação de todas as dependências, basta iniciar o servidor com o comando "node app.js", que o servidor está apto para atender as requisições dos clientes.
 
-	##6.	ATIVIDADES REALIZADAS NO PERÍODO
+##6.	ATIVIDADES REALIZADAS NO PERÍODO
 Nessa liberação foram contemplados os seguintes itens:
 Cód	Título	Tarefa	Situação	Observação
 ** 1	Título da funcionalidade	Servidor de dados RestFul com Json. 	Concluído	
