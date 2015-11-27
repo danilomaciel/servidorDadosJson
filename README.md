@@ -20,13 +20,13 @@ Limitação
 ##3.	DATAS IMPORTANTES
 Segue abaixo as datas importante do desenvolvimento:
 ###Data	Evento
---------------------------------------------------
+----------------|----------------------------------
 01/10/2015	|	Início do planejamento
 01/11/2015	|	Início do desenvolvimento
 15/11/2015	|	Entrega para teste
 23/11/2015	|	Fim do teste
 26/11/2015	| 	Liberação para produção
----------------------------------------------------
+
 ##4.	COMPATIBILIDADE
 Segue abaixo os requisitos:
 #Requisitos	Ferramentas
