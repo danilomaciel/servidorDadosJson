@@ -20,11 +20,13 @@ Limitação
 ##3.	DATAS IMPORTANTES
 Segue abaixo as datas importante do desenvolvimento:
 ###Data	Evento
-01/10/2015	Início do planejamento
-01/11/2015	Início do desenvolvimento
-15/11/2015	Entrega para teste
-23/11/2015	Fim do teste
-26/11/2015	Liberação para produção
+--------------------------------------------------
+01/10/2015	|	Início do planejamento
+01/11/2015	|	Início do desenvolvimento
+15/11/2015	|	Entrega para teste
+23/11/2015	|	Fim do teste
+26/11/2015	| 	Liberação para produção
+---------------------------------------------------
 ##4.	COMPATIBILIDADE
 Segue abaixo os requisitos:
 #Requisitos	Ferramentas
@@ -49,8 +51,8 @@ Servidor Web	NodeJs
 
 ##6.	ATIVIDADES REALIZADAS NO PERÍODO
 Nessa liberação foram contemplados os seguintes itens:
-Cód	Título	Tarefa	Situação	Observação
-** 1	Título da funcionalidade	Servidor de dados RestFul com Json. 	Concluído	
+Cód |	Título	Tarefa	Situação |	Observação
+** 1	| Título da funcionalidade	| Servidor de dados RestFul com Json. |	Concluído	
 ** 2	Implementação dos métodos e adequação das requisições	Foi implementado as requisições Rest com respostas no formato Json.	Concluído	
 ** 3	Instalar e configurar o banco de dados	Foi realizado uma pesquisado sobre o banco MongoDB e implementado os métodos necessários para o acesso aos serviços do banco.
 	Concluído	
