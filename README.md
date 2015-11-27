@@ -21,6 +21,7 @@ Desta forma foi interessante o desenvolvimento deste servidor porque através de
 
 ## 3.DATAS IMPORTANTES
 Segue abaixo as datas importante do desenvolvimento:
+
 Data  | Evento
 ------------- | -------------
 01/10/2015  | Início do planejamento
@@ -51,6 +52,7 @@ Servidor Web  |	NodeJs
 
 ## 6.ATIVIDADES REALIZADAS NO PERÍODO
 Nessa liberação foram contemplados os seguintes itens:
+
 Cód | Título | Tarefa | Situação | Observação
 ------------- | ------------- | ------------- | ------------- | ------------- 
 1 | Título da funcionalidade	| Servidor de dados RestFul com Json. | Concluído | 	
