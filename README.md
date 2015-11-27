@@ -3,8 +3,8 @@ Servidor de dados que atende as requisições através de respostas no formato J
 
 
 
-#NOTA DE LIBERAÇÃO: SERVIDOR DE DADOS RESTFUL COM JSON	
-INTRODUÇÃO
+##NOTA DE LIBERAÇÃO: SERVIDOR DE DADOS RESTFUL COM JSON	
+###INTRODUÇÃO
 
 O servidor diponibilizado através deste trabalho, visa fornecer mecanismos para que qualquer aplicação que implemente o protocolo HTTP, consiga acessar os metódos disponiveis no servidor para que seja realizada operações do tipo CRUD.
 O servidor foi implementado na linguagem javascript atráves do framework NodeJS junto com o Express para as requisições HTTP, onde cada requisição feita pelo cliente é tratada e encaminhada ao controller que irá acessar o banco de dados MongoDB que é um banco de dados NoSQL, armazendo dados diferente da forma tradicional SQL, para o acesso ao banco MongoDB foi utilizado o framework Mongoose.
@@ -21,21 +21,22 @@ Limitação
 Segue abaixo as datas importante do desenvolvimento:
 ###Data	Evento
 ----------------|----------------------------------
-01/10/2015	|	Início do planejamento
-01/11/2015	|	Início do desenvolvimento
-15/11/2015	|	Entrega para teste
-23/11/2015	|	Fim do teste
-26/11/2015	| 	Liberação para produção
+01/10/2015 | Início do planejamento
+01/11/2015 | Início do desenvolvimento
+15/11/2015 | Entrega para teste
+23/11/2015 | Fim do teste
+26/11/2015 | Liberação para produção
 
 ##4.	COMPATIBILIDADE
 Segue abaixo os requisitos:
-#Requisitos	Ferramentas
-##Navegadores	Browser:
+## Requisitos	Ferramentas
+### Navegadores |Browser:
+----------------|----------------
 * Internet Explorer
 * Firefox
 * Google Chrome
 * Opera
-##Sistema operacional
+###Sistema operacional
 * Window Seven
 * Linux
 
